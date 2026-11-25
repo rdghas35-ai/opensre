@@ -1,4 +1,4 @@
-<div align="center">
+g<div align="center">
 
 <p align="center">
   <img src="docs/logo/opensre-logo-white.svg" alt="OpenSRE" width="360" />
